@@ -25,3 +25,6 @@
  <br/>
   <img src="https://img.shields.io/badge/-Font_Awesome-339AF0?style=for-the-badge&logo=Font_Awesome&logoColor=white"/></a>&nbsp
 </p>
+<h2 align="center"> <em>Contact Me</em>🙌</h2>
+<p align="center"><em>Email</em>✉<br/>
+ <p align="center"><em>mjungpp@gmail.com</em><br/>
