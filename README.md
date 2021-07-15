@@ -20,7 +20,7 @@
 <p align="center"><em>- ISTQB FL</em><br/>
 <h2 align="center">History🎓</h2>
 <p align="center"><em>루테스 지능기술개발팀 사원(2020.10.20 ~ ing)</em><br/>
-<p align="center"><em>KH정보교육원 종로지원 개발자과정(2020.04.08 ~ 2020.09.30)</em><br/>
+<p align="center"><em>KH정보교육원 종로지원 개발자과정(2020.04.08 ~ 2020.09.28)</em><br/>
 <p align="center"><em>두루EDS SQA 부서 QA 연구원(2019.02.11 ~ 2020.02.28)</em><br/>
 <p align="center"><em>배화여자대학교 스마트IT학과 졸업 (2016.03.02 ~ 2019.02.11)</em><br/>
 <h2 align="center">Contact Me🙌</h2>
