@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3a94cf&&animation=fadeIn&fontColor=FFFFFF&height=200&section=header&text=Minjung%20Park&fontSize=90)
-<h3 align="center"><em>Hi There!🖐 I'm front-end Developer minjung Park!</em></h3>
 <h2 align="center">Portfolio✨</h2>
 <p align="center"><em>Introduce about me</em><br/>
  <br/>
