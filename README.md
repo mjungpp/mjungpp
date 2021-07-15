@@ -19,6 +19,7 @@
 <h2 align="center">Certificate📜</h2>
 <p align="center"><em>- 정보처리기사</em><br/>
 <p align="center"><em>- SQLD(2021.04.16)</em><br/>
+<p align="center"><em>- ISTQB FL</em><br/>
 <h2 align="center">History🎓</h2>
 <p align="center"><em>루테스 지능기술개발팀 사원(2020.10.20 ~ ing)</em><br/>
 <p align="center"><em>KH정보교육원 종로지원 개발자과정(2020.04.08 ~ 2020.09.30)</em><br/>
