@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3a94cf&&animation=fadeIn&fontColor=FFFFFF&height=200&section=header&text=Minjung%20Park&fontSize=90)
+<br/>
 <h2 align="center">Portfolio✨</h2>
 <p align="center"><em>Introduce about me</em><br/>
  <br/>
  <a href="https://mjungpp.github.io/portfolio/">🌏<em>Go!</em></a><br/>
 </p>
+<br/>
 <h2 align="center">Tech Stacks🔨</h2>
 <p align="center">
   <img src="http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -16,10 +18,13 @@
  </p>
 <h2 align="center">My Github Stats🔥</h2>
 <div align="center">
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Minjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/mjungpp/github-readme-stats)
 </div>
+<br/>
 
 <h2 align="center">Contact Me🙌</h2>
 <p align="center"><em>Email</em>✉<br/>
-<p align="center"><em>mjungpp@gmail.com</em><br/>
+<p align="center"><em>mjungpp@gmail.com</em>
+ <br/>
