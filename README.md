@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp</a>
   <img src="http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp<br/>
  </p>
-<h2 align="center">My Github Stats🔥</h2>
-<div align="center">
-<br/>
 
 <h2 align="center">Contact Me🙌</h2>
 <p align="center"><em>Email</em>✉<br/>
