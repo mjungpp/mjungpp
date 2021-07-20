@@ -20,10 +20,6 @@
 <div align="center">
 <br/>
 
-[![Minjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/mjungpp/github-readme-stats)
-</div>
-<br/>
-
 <h2 align="center">Contact Me🙌</h2>
 <p align="center"><em>Email</em>✉<br/>
 <p align="center"><em>mjungpp@gmail.com</em>
