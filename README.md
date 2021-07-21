@@ -3,7 +3,7 @@
 <h2 align="center">Portfolio✨</h2>
 <p align="center"><em>Introduce about me</em><br/>
  <br/>
- <a href="https://mjungpp.github.io/portfolio/">🌏<em>Go!</em></a><br/>
+ <a href="https://mjungppportfolio.netlify.app/">🌏<em>Go!</em></a><br/>
 </p>
 <h2 align="center">Tech Stacks🔨</h2>
 <p align="center">
