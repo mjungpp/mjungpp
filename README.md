@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3a94cf&&animation=fadeIn&fontColor=FFFFFF&height=200&section=header&text=Minjung%20Park&fontSize=90)
 <br/>
-<h2 align="center">Portfolio✨</h2>
+<h2 align="center">⭐Portfolio⭐</h2>
 <p align="center"><em>Introduce about me</em><br/>
  <br/>
  <a href="https://mjungppportfolio.netlify.app/">🌏<em>Go!</em></a><br/>
 </p>
-<h2 align="center">Tech Stacks🔨</h2>
+<h2 align="center">🛠Tech Stacks🛠</h2>
 <p align="center">
   <img src="http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -16,7 +16,7 @@
   <img src="http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp<br/>
  </p>
 
-<h2 align="center">Contact Me🙌</h2>
+<h2 align="center">💧Contact Me💧</h2>
 <p align="center"><em>Email</em>✉<br/>
 <p align="center"><em>mjungpp@gmail.com</em>
  <br/>
