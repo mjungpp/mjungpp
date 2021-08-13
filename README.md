@@ -16,11 +16,6 @@
   <img src="http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp<br/>
  </p>
 
-<h2 align="center">❤Github Status</h2>
-<p align="center">
-  ![Minjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjungpp&count_private=true)](https://github.com/mjungpp/github-readme-stats)
-</p>
-
 <h2 align="center">🙌Contact Me</h2>
 <p align="center"><em>Email</em>✉<br/>
 <p align="center"><em>mjungpp@gmail.com</em>
