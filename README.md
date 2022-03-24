@@ -19,5 +19,5 @@
 
 <h2 align="center">🙌Contact Me</h2>
 <p align="center"><em>Email</em>✉<br/>
-<p align="center"><em>mjungpp@gmail.com</em>
+<p align="center"><em>mjungpp@naver.com</em>
  <br/>
