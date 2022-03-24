@@ -2,6 +2,7 @@
 <br/>
 <h2 align="center">📌Portfolio</h2>
 <p align="center"><em>Introduce about me</em><br/>
+<p align="center"><em>If you want it to open in a new tab, press ctrl and click the link.</em><br/>
  <br/>
  <a href="https://mjungppportfolio.netlify.app/">🌏<em>Go!</em></a><br/>
 </p>
